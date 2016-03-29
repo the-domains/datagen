@@ -1,7 +1,7 @@
 name: Datagen
 favicon: null
-layout_spectrum: 0.7688650984782726
-typography_spectrum: 0.5911689384374768
+layout_spectrum: 1
+typography_spectrum: 0.43825
 cta:
   domain: null
   bucket: null
